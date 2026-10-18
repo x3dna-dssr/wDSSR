@@ -8,18 +8,17 @@
 
 ## Global Usage & Impact
 
-First made publicly available on **March 15, 2026**, wDSSR tracks active computational jobs (excluding passive page views) executed across research institutions worldwide.
+First made publicly available on **March 15, 2026**, wDSSR tracks active computational jobs (excluding passive page views) executed across research institutions worldwide. As of October 18, 2026:
+
+* **56,600+ Computational Jobs Executed** across 84 countries.
+* **3,920+ Unique IP Addresses** spanning academic, educational, and industrial research institutions.
+* **Active Global Reach** across the Americas, Europe, Asia, Africa, and Oceania.
 
 <p align="center">
   <a href="docs/wDSSR-stats.png">
     <img src="docs/wDSSR-stats.png" alt="wDSSR Global Usage & Job Statistics" width="480">
   </a>
 </p>
-
-*As of October 18, 2026:*
-* **56,600+ Computational Jobs Executed** across 84 countries.
-* **3,920+ Unique IP Addresses** spanning academic, educational, and industrial research institutions.
-* **Active Global Reach** across the Americas, Europe, Asia, Africa, and Oceania.
 
 ---
 
